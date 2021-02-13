@@ -14,9 +14,11 @@ Change your EBS Database details in application.properties file
 spring.datasource2.url=jdbc:oracle:thin:@//localhost:1521/ebsdb
 
 spring.datasource2.username=username
+
 spring.datasource2.password=password
 
 Start the application using Java
+
 java -jar oneapp-0.0.1-RELEASE.war
 
 Update the EBS_PROD instance of your client application (Desktop/Mobile)
