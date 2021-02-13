@@ -12,6 +12,7 @@ Unzip all the files.
 Change your EBS Database details in application.properties file
 
 spring.datasource2.url=jdbc:oracle:thin:@//localhost:1521/ebsdb
+
 spring.datasource2.username=username
 spring.datasource2.password=password
 
