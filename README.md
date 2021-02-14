@@ -21,8 +21,9 @@ Start the application using Java
 
 java -jar oneapp-0.0.1-RELEASE.war
 
-Update the EBS_PROD instance of your client application (Desktop/Mobile)
-Log in to the application using default username and password: admin/admin
+Update the EBS_PROD instance of your client application (Desktop/Mobile).
+
+Log in to the application using default username and password: admin/admin.
 
 Read the documentation @ http://docs.rikdata.com
 
