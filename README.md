@@ -25,5 +25,5 @@ Update the EBS_PROD instance of your client application (Desktop/Mobile).
 
 Log in to the application using default username and password: admin/admin.
 
-Read the documentation @ http://docs.rikdata.com
+Read the documentation @ http://docs.rikdata.com and JavaDocs @ https://docs.rikdata.com/docs/javadocs/
 
