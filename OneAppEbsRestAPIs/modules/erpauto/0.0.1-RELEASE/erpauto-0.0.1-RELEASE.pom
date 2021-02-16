@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.rikdata</groupId>
+    <artifactId>erpauto</artifactId>
+    <version>0.0.1-RELEASE</version>
+    <name>erpauto</name>
+    <description>Rikdata ERP Auto App</description>
+    <packaging>pom</packaging>
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+    <modules>
+        <module>po</module>
+        <module>inv</module>
+        <module>wip</module>
+        <module>oe</module>
+        <module>ont</module>
+        <module>wsh</module>
+
+                <module>bom</module>
+
+                <module>ahl</module>
+        <module>ak</module>
+        <module>alr</module>
+        <module>ams</module>
+        <module>amv</module>
+        <module>ap</module>
+        <module>ar</module>
+        <module>asf</module>
+        <module>asg</module>
+        <module>asl</module>
+        <module>aso</module>
+        <module>asp</module>
+        <module>ast</module>
+        <module>ax</module>
+        <module>az</module>
+        <module>bis</module>
+        <module>bne</module>
+
+        <module>cct</module>
+        <module>ce</module>
+        <module>cle</module>
+        <module>cln</module>
+        <module>cn</module>
+        <module>crp</module>
+        <module>cs</module>
+        <module>csc</module>
+        <module>csd</module>
+        <module>csf</module>
+        <module>csl</module>
+        <module>csm</module>
+        <module>csp</module>
+        <module>csr</module>
+        <module>cug</module>
+        <module>cz</module>
+        <module>ddr</module>
+        <module>dom</module>
+        <module>dpp</module>
+        <module>eam</module>
+        <module>ec</module>
+        <module>ecx</module>
+        <module>edr</module>
+        <module>ego</module>
+        <module>eng</module>
+        <module>flm</module>
+        <module>fpa</module>
+        <module>frm</module>
+        <module>fte</module>
+        <module>fun</module>
+        <module>fv</module>
+        <module>ghg</module>
+        <module>gma</module>
+        <module>gmd</module>
+        <module>gme</module>
+        <module>gmf</module>
+        <module>gmi</module>
+        <module>gmo</module>
+        <module>gmp</module>
+        <module>gms</module>
+        <module>gr</module>
+        <module>hxc</module>
+        <module>hxt</module>
+        <module>ia</module>
+        <module>ibc</module>
+        <module>ibe</module>
+        <module>ibu</module>
+        <module>ibw</module>
+        <module>iby</module>
+<!---->
+        <module>ieb</module>
+        <module>iec</module>
+        <module>iem</module>
+        <module>ieo</module>
+        <module>ies</module>
+        <module>ieu</module>
+        <module>iex</module>
+        <module>igc</module>
+        <module>igi</module>
+        <module>imc</module>
+        <module>inl</module>
+        <module>ipa</module>
+        <module>itg</module>
+        <module>ja</module>
+        <module>je</module>
+        <module>jg</module>
+        <module>jl</module>
+        <module>jmf</module>
+        <module>jtm</module>
+        <module>lns</module>
+        <module>mrp</module>
+        <module>msc</module>
+
+        <module>oke</module>
+        <module>oks</module>
+
+        <module>ota</module>
+        <module>pa</module>
+        <module>pjm</module>
+        <module>pn</module>
+        <module>pon</module>
+        <module>pos</module>
+        <module>prp</module>
+        <module>psa</module>
+        <module>psp</module>
+        <module>pv</module>
+        <module>qa</module>
+        <module>qpr</module>
+        <module>qrm</module>
+        <module>rg</module>
+        <module>rlm</module>
+        <module>rrs</module>
+        <module>ssp</module>
+                <module>wms</module>
+                <module>wps</module>
+        <module>wsm</module>
+        <module>xdo</module>
+        <module>xdp</module>
+        <module>xla</module>
+        <module>xle</module>
+        <module>xnb</module>
+        <module>xnp</module>
+        <module>xtr</module>
+        <module>zx</module>
+
+<!--        <module>qp</module>-->
+<!--                <module>ozf</module>-->
+<!--        <module>icx</module>-->
+
+        <!--        <module>gml</module>-->
+
+
+    </modules>
+
+    <build>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 06 23:49:17 CET 2021
+nerp-0.0.1-RELEASE.jar>=
+nerp-0.0.1-RELEASE.pom>=
+nerp-0.0.1-RELEASE-exec.jar>=
